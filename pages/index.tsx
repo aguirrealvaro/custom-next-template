@@ -8,7 +8,7 @@ const Home = () => {
         <title>Title</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>Deploying</div>
+      <div>Deploying          </div>
     </Layout>
   );
 };
