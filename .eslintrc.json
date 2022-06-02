@@ -1,0 +1,11 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:prettier/recommended"],
+  "rules": {
+    "no-console": "warn",
+    "@next/next/no-document-import-in-page": "off",
+    "no-unused-vars": "warn",
+    "no-var": "warn",
+    "prettier/prettier": "error",
+    "no-duplicate-imports": "error"
+  }
+}
